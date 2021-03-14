@@ -1,0 +1,10 @@
+F:\VisualStudioProjects\zavdana4\zavdana4\bin\Debug\zavdana4.exe.config
+F:\VisualStudioProjects\zavdana4\zavdana4\bin\Debug\zavdana4.exe
+F:\VisualStudioProjects\zavdana4\zavdana4\bin\Debug\zavdana4.pdb
+F:\VisualStudioProjects\zavdana4\zavdana4\obj\Debug\zavdana4.csprojAssemblyReference.cache
+F:\VisualStudioProjects\zavdana4\zavdana4\obj\Debug\zavdana4.Form1.resources
+F:\VisualStudioProjects\zavdana4\zavdana4\obj\Debug\zavdana4.Properties.Resources.resources
+F:\VisualStudioProjects\zavdana4\zavdana4\obj\Debug\zavdana4.csproj.GenerateResource.cache
+F:\VisualStudioProjects\zavdana4\zavdana4\obj\Debug\zavdana4.csproj.CoreCompileInputs.cache
+F:\VisualStudioProjects\zavdana4\zavdana4\obj\Debug\zavdana4.exe
+F:\VisualStudioProjects\zavdana4\zavdana4\obj\Debug\zavdana4.pdb

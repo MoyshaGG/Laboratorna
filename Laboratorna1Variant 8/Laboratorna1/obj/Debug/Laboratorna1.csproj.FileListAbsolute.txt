@@ -1,0 +1,10 @@
+F:\VisualStudioProjects\Laboratorna1\Laboratorna1\bin\Debug\Laboratorna1.exe.config
+F:\VisualStudioProjects\Laboratorna1\Laboratorna1\bin\Debug\Laboratorna1.exe
+F:\VisualStudioProjects\Laboratorna1\Laboratorna1\bin\Debug\Laboratorna1.pdb
+F:\VisualStudioProjects\Laboratorna1\Laboratorna1\obj\Debug\Laboratorna1.csprojAssemblyReference.cache
+F:\VisualStudioProjects\Laboratorna1\Laboratorna1\obj\Debug\Laboratorna1.Form1.resources
+F:\VisualStudioProjects\Laboratorna1\Laboratorna1\obj\Debug\Laboratorna1.Properties.Resources.resources
+F:\VisualStudioProjects\Laboratorna1\Laboratorna1\obj\Debug\Laboratorna1.csproj.GenerateResource.cache
+F:\VisualStudioProjects\Laboratorna1\Laboratorna1\obj\Debug\Laboratorna1.csproj.CoreCompileInputs.cache
+F:\VisualStudioProjects\Laboratorna1\Laboratorna1\obj\Debug\Laboratorna1.exe
+F:\VisualStudioProjects\Laboratorna1\Laboratorna1\obj\Debug\Laboratorna1.pdb
